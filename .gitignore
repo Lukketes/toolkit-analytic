@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+tests/
+
+# Bases e saídas de trabalho: dados do estágio NÃO vão para o GitHub.
+# Guarde as bases em dados/ e os relatórios em saidas/.
+dados/
+saidas/
+~$*.xlsx

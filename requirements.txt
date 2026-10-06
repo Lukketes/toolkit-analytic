@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.23
+openpyxl>=3.1      # Excel .xlsx/.xlsm (leitura e --exportar)
+
+# opcionais, só se precisar:
+# pyarrow          # .parquet
+# xlrd             # .xls antigo (Excel 97-2003)
+# pytest           # rodar os testes: python -m pytest -q
